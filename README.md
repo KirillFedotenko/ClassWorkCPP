@@ -1,6 +1,6 @@
 # ClassWorkCPP
 ## Классные работы по C++
-[13.02,2024](https://github.com/KirillFedotenko/ClassWorkCPP/tree/main/13.02.2024)
+[13.02,2024](https://github.com/KirillFedotenko/ClassWorkCPP/tree/main/13.02.2024) - типы данных
 
 
 
