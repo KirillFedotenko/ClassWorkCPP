@@ -18,3 +18,5 @@
 [27.02.2024](https://github.com/KirillFedotenko/ClassWorkCPP/blob/main/27.02.2024/27.02.2024.cpp) - 5ая классная работа
 
 [29.02.2024](https://github.com/KirillFedotenko/ClassWorkCPP/blob/main/29.02.2024/29.02.2024.cpp) - 6ая классная работа
+
+[12.03.2024](https://github.com/KirillFedotenko/ClassWorkCPP/blob/main/12.03.2024/12.03.2024.cpp) - 7ая классная работа
